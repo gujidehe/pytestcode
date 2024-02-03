@@ -1,0 +1,23 @@
+hero:
+  name: 安琪拉
+  word: 我爱玩火
+  Hp: 445
+
+heros_name:
+  - 安琪拉
+  - 黄忠
+  - 小乔
+
+heros:
+  - name: 黄忠
+    word: 周日被我设熄火了
+    HP: 445
+
+heros_name_list:
+  - - 安琪拉
+    - 黄忠
+    - 小乔
+
+heros_NameAndWord:
+  - ["安琪拉","我爱玩火"]
+  - ["黄忠","周日也被我射熄火了"]
